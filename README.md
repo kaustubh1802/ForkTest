@@ -1,2 +1,2 @@
 # test
-t2 update
+t2 updates
